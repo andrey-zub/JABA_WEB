@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="lab_web">
+    <output-path>$PROJECT_DIR$/out/artifacts/lab_web</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="lab_web" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.18.26" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="lab_web/web/Web" />
+    </root>
+  </artifact>
+</component>
